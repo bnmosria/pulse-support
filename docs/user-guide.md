@@ -33,7 +33,7 @@ The large card on the Home screen shows your most recently used workout. On firs
 ### Reading the timer screen
  
 - **Countdown** — the large number in the centre counts down the current phase.
-- **Progress ring** — the arc around the countdown depletes clockwise as the phase runs down.
+- **Progress ring** — the arc around the countdown moves clockwise with the phase. In countdown mode it depletes as time runs out; in countup mode it fills as time accumulates.
 - **Round dots** — a row of dots at the bottom, one per round. The active round is a highlighted pill; completed rounds are dimmed; upcoming rounds are empty circles.
 - **Phase label** — the word above the countdown tells you which phase you are in.
 - **Screen colour** — changes on every phase transition so you know your current phase at a glance without reading anything.
