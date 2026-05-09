@@ -37,11 +37,11 @@ The large card on the Home screen shows your most recently used workout. On firs
 - **Round dots** — a row of dots at the bottom, one per round. The active round is a highlighted pill; completed rounds are dimmed; upcoming rounds are empty circles.
 - **Phase label** — the word above the countdown tells you which phase you are in.
 - **Screen colour** — changes on every phase transition so you know your current phase at a glance without reading anything.
-<img src="screenshots/timer-prepare.png" alt="PREPARE phase — orange screen, 5 s countdown" width="280"/>
-<img src="screenshots/timer-work.png" alt="WORK phase — yellow-green screen, mid-countdown" width="280"/>
-<img src="screenshots/timer-rest.png" alt="REST phase — blue screen" width="280"/>
-<img src="screenshots/timer-round-rest.png" alt="ROUND REST phase — purple screen" width="280"/>
-<img src="screenshots/summary-complete.png" alt="Summary screen — completed session with full stats" width="280"/>
+<img src="screenshots/timer-prepare.png" alt="PREPARE phase — orange screen, 5 s countdown" width="130"/>
+<img src="screenshots/timer-work.png" alt="WORK phase — yellow-green screen, mid-countdown" width="130"/>
+<img src="screenshots/timer-rest.png" alt="REST phase — blue screen" width="130"/>
+<img src="screenshots/timer-round-rest.png" alt="ROUND REST phase — purple screen" width="130"/>
+<img src="screenshots/summary-complete.png" alt="Summary screen — completed session with full stats" width="130"/>
 
 ## Pausing and Ending Early
  
