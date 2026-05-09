@@ -20,8 +20,7 @@ When you open Pulse for the first time you land on the Home screen. Three ready-
  
 The large card on the Home screen shows your most recently used workout. On first launch it shows **Tabata Classic** with a prompt to customise it if you want to adjust it before starting. After your first workout, the card always updates to show the last workout you ran. Tap **▶ Start** to begin immediately — no setup required.
  
-![Home screen showing the last-used workout card](screenshots/home.png)
- 
+<img src="screenshots/home.png" alt="Home screen showing the last-used workout card" width="280"/>
 ---
  
 ## Running Your First Workout
@@ -40,16 +39,11 @@ The large card on the Home screen shows your most recently used workout. On firs
 - **Round dots** — a row of dots at the bottom, one per round. The active round is a highlighted pill; completed rounds are dimmed; upcoming rounds are empty circles.
 - **Phase label** — the word above the countdown tells you which phase you are in.
 - **Screen colour** — changes on every phase transition so you know your current phase at a glance without reading anything.
-![PREPARE phase — orange screen, 5 s countdown](screenshots/timer-prepare.png)
- 
-![WORK phase — yellow-green screen, mid-countdown](screenshots/timer-work.png)
- 
-![REST phase — blue screen](screenshots/timer-rest.png)
- 
-![ROUND REST phase — purple screen](screenshots/timer-round-rest.png)
- 
-![Summary screen — completed session with full stats](screenshots/summary-complete.png)
- 
+<img src="screenshots/timer-prepare.png" alt="PREPARE phase — orange screen, 5 s countdown" width="280"/>
+<img src="screenshots/timer-work.png" alt="WORK phase — yellow-green screen, mid-countdown" width="280"/>
+<img src="screenshots/timer-rest.png" alt="REST phase — blue screen" width="280"/>
+<img src="screenshots/timer-round-rest.png" alt="ROUND REST phase — purple screen" width="280"/>
+<img src="screenshots/summary-complete.png" alt="Summary screen — completed session with full stats" width="280"/>
 ---
  
 ## Pausing and Ending Early
@@ -60,14 +54,12 @@ From the paused state you have two options:
  
 - **▶ Resume** — picks up from exactly where you paused with zero drift.
 - **End Workout** — stops the session immediately and takes you to the Summary screen. The session is saved as a partial workout.
-![Timer paused — Resume and End Workout buttons visible](screenshots/timer-paused.png)
- 
+<img src="screenshots/timer-paused.png" alt="Timer paused — Resume and End Workout buttons visible" width="280"/>
 You can also tap **✕ End** in the top-left corner at any time while the timer is running. This pauses the workout first and asks for confirmation before ending.
  
 When you end a workout early, the Summary shows how many rounds you completed and how much time you spent in work and rest. The session is marked as incomplete but still saved to your History.
  
-![Summary screen — partial session ended early](screenshots/summary-partial.png)
- 
+<img src="screenshots/summary-partial.png" alt="Summary screen — partial session ended early" width="280"/>
 ---
  
 ## Browsing Templates
@@ -77,22 +69,19 @@ The built-in workout templates give you a starting point for any training style.
 - Use the filter chips at the top to narrow by category: **All**, **Tabata**, **EMOM**, **AMRAP**, **Custom**.
 - Type in the search bar to filter by workout name.
 - Tap any card to open a preview sheet at the bottom of the screen.
-![Templates list — All filter active](screenshots/templates-list.png)
- 
+<img src="screenshots/templates-list.png" alt="Templates list — All filter active" width="280"/>
 The preview sheet shows the full workout config — rounds, work, rest, round rest, and exercises. From here you can:
  
 - **▶ Start** — begin the workout immediately.
 - **Duplicate & Edit** — copy the workout into the Builder so you can tweak it before starting. The original workout is unchanged.
-![Templates bottom sheet — Tabata Classic preview](screenshots/templates-sheet.png)
- 
+<img src="screenshots/templates-sheet.png" alt="Templates bottom sheet — Tabata Classic preview" width="280"/>
 ---
  
 ## Creating a Custom Workout
  
 Tap **+ New Workout** on the Home screen to open the Builder in create mode. You can also tap **Duplicate & Edit** from any template preview to start from an existing workout as a base.
  
-![Builder — create mode, default values](screenshots/builder-empty.png)
- 
+<img src="screenshots/builder-empty.png" alt="Builder — create mode, default values" width="280"/>
 ### What you can configure
  
 | Field | What it does |
@@ -118,8 +107,7 @@ Hold and drag the handle on the right side of any exercise row to change its ord
  
 - **Save** — saves the workout and returns to the previous screen. The workout appears on the Home card ready to start.
 - **▶ Start** — saves the workout and launches the timer immediately.
-![Builder — filled with a workout name and multiple exercises](screenshots/builder-filled.png)
- 
+<img src="screenshots/builder-filled.png" alt="Builder — filled with a workout name and multiple exercises" width="280"/>
 ### Editing an existing workout
  
 To edit a workout you have already created, find it in the Templates screen, tap the card, and choose **Duplicate & Edit** from the preview sheet. This creates an editable copy — the original remains unchanged. To replace the original, delete it from Templates after saving the edited version.
@@ -141,16 +129,14 @@ Tap any session row to open the full Summary for that session.
  
 To delete all history, tap **Clear** in the top-right corner of the History screen. This removes all session records permanently but does not affect your saved workouts.
  
-![History tab — multiple sessions grouped by date](screenshots/history.png)
- 
+<img src="screenshots/history.png" alt="History tab — multiple sessions grouped by date" width="280"/>
 ---
  
 ## Settings
  
 Tap the **gear icon** in the top-right corner of the Home screen to open Settings.
  
-![Settings screen — default state](screenshots/settings.png)
- 
+<img src="screenshots/settings.png" alt="Settings screen — default state" width="280"/>
 | Setting | What it does |
 |---|---|
 | **Audio Cues** | Plays a beep on every phase transition. Turn off for a silent workout. |
