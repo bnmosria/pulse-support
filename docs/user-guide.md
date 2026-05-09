@@ -62,8 +62,10 @@ From the paused state you have two options:
 
 - **▶ Resume** — picks up from exactly where you paused with zero drift.
 - **End Workout** — stops the session immediately and takes you to the Summary screen. The session is saved as a partial workout.
-  <img src="screenshots/timer-paused.png" alt="Timer paused — Resume and End Workout buttons visible" width="280"/>
-  You can also tap **✕ End** in the top-left corner at any time while the timer is running. This pauses the workout first and asks for confirmation before ending.
+
+<img src="screenshots/timer-paused.png" alt="Timer paused — Resume and End Workout buttons visible" width="280"/>
+
+You can also tap **✕ End** in the top-left corner at any time while the timer is running. This pauses the workout first and asks for confirmation before ending.
 
 When you end a workout early, the Summary shows how many rounds you completed and how much time you spent in work and rest. The session is marked as incomplete but still saved to your History.
 
@@ -76,12 +78,15 @@ The built-in workout templates give you a starting point for any training style.
 - Use the filter chips at the top to narrow by category: **All**, **Tabata**, **EMOM**, **AMRAP**, **Custom**.
 - Type in the search bar to filter by workout name.
 - Tap any card to open a preview sheet at the bottom of the screen.
-  <img src="screenshots/templates-list.png" alt="Templates list — All filter active" width="280"/>
-  The preview sheet shows the full workout config — rounds, work, rest, round rest, and exercises. From here you can:
+
+<img src="screenshots/templates-list.png" alt="Templates list — All filter active" width="280"/>
+
+The preview sheet shows the full workout config — rounds, work, rest, round rest, and exercises. From here you can:
 
 - **▶ Start** — begin the workout immediately.
 - **Duplicate & Edit** — copy the workout into the Builder so you can tweak it before starting. The original workout is unchanged.
-  <img src="screenshots/templates-sheet.png" alt="Templates bottom sheet — Tabata Classic preview" width="280"/>
+
+<img src="screenshots/templates-sheet.png" alt="Templates bottom sheet — Tabata Classic preview" width="280"/>
 
 ## Creating a Custom Workout
 
@@ -114,7 +119,8 @@ Hold and drag the handle on the right side of any exercise row to change its ord
 
 - **Save** — saves the workout and returns to the previous screen. The workout appears on the Home card ready to start.
 - **▶ Start** — saves the workout and launches the timer immediately.
-  <img src="screenshots/builder-filled.png" alt="Builder — filled with a workout name and multiple exercises" width="280"/>
+
+<img src="screenshots/builder-filled.png" alt="Builder — filled with a workout name and multiple exercises" width="280"/>
 
 ### Editing an existing workout
 
