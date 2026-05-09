@@ -18,7 +18,7 @@ When you open Pulse for the first time you land on the Home screen. Three ready-
 | EMOM 40/20 | 10 | 40 s | 20 s | 60 s |
 | Pyramid 30/20/10 | 3 | 30 s | 15 s | 60 s |
  
-The large card on the Home screen shows your most recently used workout. On first launch it shows **Tabata Classic** with a prompt to customise it if you want to adjust it before starting. After your first workout, the card always updates to show the last workout you ran. Tap **▶ Start** to begin immediately — no setup required.
+The large card on the Home screen shows your most recently used workout. On first launch one of the three built-in workouts appears on the card with a prompt to customise it before starting. After your first workout, the card always updates to show the last workout you ran. Tap **▶ Start** to begin immediately — no setup required.
  
 <img src="screenshots/home.png" alt="Home screen showing the last-used workout card" width="280"/>
 ---
