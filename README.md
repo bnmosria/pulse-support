@@ -8,7 +8,7 @@ This is the official support repository for **Pulse — HIIT Interval Timer**. I
  
 **Check if it's already reported** — browse [open issues](../../issues) to see if someone else has already reported the same thing. If they have, give it a to help us prioritise.
  
-**Check the user guide** — many common questions are answered in the [User Guide](https://bnmosria.github.io/pulse/#guide).
+**Check the user guide** — many common questions are answered in the [User Guide](docs/user-guide.md).
  
 ## How to Get Help
  
