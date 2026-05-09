@@ -5,9 +5,7 @@
 Pulse is a focused interval timer for HIIT (High-Intensity Interval Training) workouts on iOS and Android. HIIT means alternating short bursts of intense exercise with brief recovery periods — Pulse tracks every second so you can focus entirely on moving.
  
 Pulse runs entirely on your device, stays accurate even when you background the app mid-workout, and vibrates and beeps through every phase transition so you never have to glance at your screen.
- 
----
- 
+
 ## Getting Started
  
 When you open Pulse for the first time you land on the Home screen. Three ready-to-go workouts are already loaded:
@@ -21,8 +19,7 @@ When you open Pulse for the first time you land on the Home screen. Three ready-
 The large card on the Home screen shows your most recently used workout. On first launch one of the three built-in workouts appears on the card with a prompt to customise it before starting. After your first workout, the card always updates to show the last workout you ran. Tap **▶ Start** to begin immediately — no setup required.
  
 <img src="screenshots/home.png" alt="Home screen showing the last-used workout card" width="280"/>
----
- 
+
 ## Running Your First Workout
  
 1. Tap **▶ Start** on the Home screen.
@@ -32,6 +29,7 @@ The large card on the Home screen shows your most recently used workout. On firs
 5. Work and rest repeat for every exercise in the round.
 6. After the last exercise in a round, a **ROUND REST** (purple screen) gives you a longer recovery before the next round starts. If Round Rest is set to 0 s (like Tabata Classic) this phase is skipped entirely.
 7. When all rounds are done, Pulse shows a **FINISH** screen and takes you straight to your Summary.
+
 ### Reading the timer screen
  
 - **Countdown** — the large number in the centre counts down the current phase.
@@ -44,8 +42,7 @@ The large card on the Home screen shows your most recently used workout. On firs
 <img src="screenshots/timer-rest.png" alt="REST phase — blue screen" width="280"/>
 <img src="screenshots/timer-round-rest.png" alt="ROUND REST phase — purple screen" width="280"/>
 <img src="screenshots/summary-complete.png" alt="Summary screen — completed session with full stats" width="280"/>
----
- 
+
 ## Pausing and Ending Early
  
 Tap the **pause button** at the bottom of the timer screen to freeze the countdown. The screen dims to grey.
@@ -60,7 +57,6 @@ You can also tap **✕ End** in the top-left corner at any time while the timer 
 When you end a workout early, the Summary shows how many rounds you completed and how much time you spent in work and rest. The session is marked as incomplete but still saved to your History.
  
 <img src="screenshots/summary-partial.png" alt="Summary screen — partial session ended early" width="280"/>
----
  
 ## Browsing Templates
  
@@ -75,7 +71,6 @@ The preview sheet shows the full workout config — rounds, work, rest, round re
 - **▶ Start** — begin the workout immediately.
 - **Duplicate & Edit** — copy the workout into the Builder so you can tweak it before starting. The original workout is unchanged.
 <img src="screenshots/templates-sheet.png" alt="Templates bottom sheet — Tabata Classic preview" width="280"/>
----
  
 ## Creating a Custom Workout
  
@@ -111,9 +106,7 @@ Hold and drag the handle on the right side of any exercise row to change its ord
 ### Editing an existing workout
  
 To edit a workout you have already created, find it in the Templates screen, tap the card, and choose **Duplicate & Edit** from the preview sheet. This creates an editable copy — the original remains unchanged. To replace the original, delete it from Templates after saving the edited version.
- 
----
- 
+
 ## Your History
  
 Every completed or partial session is saved to History automatically. Tap the **History** tab in the bottom navigation to see your past workouts. If you have completed sessions today, a badge on the History tab shows the count.
@@ -130,8 +123,7 @@ Tap any session row to open the full Summary for that session.
 To delete all history, tap **Clear** in the top-right corner of the History screen. This removes all session records permanently but does not affect your saved workouts.
  
 <img src="screenshots/history.png" alt="History tab — multiple sessions grouped by date" width="280"/>
----
- 
+
 ## Settings
  
 Tap the **gear icon** in the top-right corner of the Home screen to open Settings.
@@ -144,9 +136,7 @@ Tap the **gear icon** in the top-right corner of the Home screen to open Setting
 | **Preparation Countdown** | Sets how long the get-ready countdown lasts before the first WORK phase. Options: 3 s, 5 s, 10 s. Default is 5 s. |
 | **Keep Screen Awake** | Prevents the display from dimming while a workout is running. Recommended — lets you glance at the timer without touching the phone. |
 | **Reset to Defaults** | Restores all settings to their initial values. Does not delete your workouts or History. |
- 
----
- 
+
 ## Troubleshooting
  
 **Notifications don't appear when the app is backgrounded**
@@ -160,8 +150,6 @@ Check that Audio Cues is enabled in Settings. Also check your device's silent sw
  
 **I accidentally deleted a workout**
 Deleted workouts cannot be recovered. If you deleted a built-in template (Tabata Classic, EMOM 40/20, Pyramid 30/20/10), you can recreate it manually in the Builder using the values in the Getting Started table above.
- 
----
  
 ## Tips
  
