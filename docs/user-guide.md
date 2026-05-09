@@ -37,11 +37,22 @@ The large card on the Home screen shows your most recently used workout. On firs
 - **Round dots** — a row of dots at the bottom, one per round. The active round is a highlighted pill; completed rounds are dimmed; upcoming rounds are empty circles.
 - **Phase label** — the word above the countdown tells you which phase you are in.
 - **Screen colour** — changes on every phase transition so you know your current phase at a glance without reading anything.
-<img src="screenshots/timer-prepare.png" alt="PREPARE phase — orange screen, 5 s countdown" width="130"/>
-<img src="screenshots/timer-work.png" alt="WORK phase — yellow-green screen, mid-countdown" width="130"/>
-<img src="screenshots/timer-rest.png" alt="REST phase — blue screen" width="130"/>
-<img src="screenshots/timer-round-rest.png" alt="ROUND REST phase — purple screen" width="130"/>
-<img src="screenshots/summary-complete.png" alt="Summary screen — completed session with full stats" width="130"/>
+<table>
+  <tr>
+    <td><img src="screenshots/timer-prepare.png" alt="PREPARE" width="130"/></td>
+    <td><img src="screenshots/timer-work.png" alt="WORK" width="130"/></td>
+    <td><img src="screenshots/timer-rest.png" alt="REST" width="130"/></td>
+    <td><img src="screenshots/timer-round-rest.png" alt="ROUND REST" width="130"/></td>
+    <td><img src="screenshots/summary-complete.png" alt="SUMMARY" width="130"/></td>
+  </tr>
+  <tr>
+    <td align="center">Prepare</td>
+    <td align="center">Work</td>
+    <td align="center">Rest</td>
+    <td align="center">Round Rest</td>
+    <td align="center">Summary Screen</td>
+  </tr>
+</table>
 
 ## Pausing and Ending Early
  
@@ -77,6 +88,7 @@ The preview sheet shows the full workout config — rounds, work, rest, round re
 Tap **+ New Workout** on the Home screen to open the Builder in create mode. You can also tap **Duplicate & Edit** from any template preview to start from an existing workout as a base.
  
 <img src="screenshots/builder-empty.png" alt="Builder — create mode, default values" width="280"/>
+
 ### What you can configure
  
 | Field | What it does |
@@ -103,6 +115,7 @@ Hold and drag the handle on the right side of any exercise row to change its ord
 - **Save** — saves the workout and returns to the previous screen. The workout appears on the Home card ready to start.
 - **▶ Start** — saves the workout and launches the timer immediately.
 <img src="screenshots/builder-filled.png" alt="Builder — filled with a workout name and multiple exercises" width="280"/>
+
 ### Editing an existing workout
  
 To edit a workout you have already created, find it in the Templates screen, tap the card, and choose **Duplicate & Edit** from the preview sheet. This creates an editable copy — the original remains unchanged. To replace the original, delete it from Templates after saving the edited version.
@@ -129,6 +142,7 @@ To delete all history, tap **Clear** in the top-right corner of the History scre
 Tap the **gear icon** in the top-right corner of the Home screen to open Settings.
  
 <img src="screenshots/settings.png" alt="Settings screen — default state" width="280"/>
+
 | Setting | What it does |
 |---|---|
 | **Audio Cues** | Plays a beep on every phase transition. Turn off for a silent workout. |
@@ -157,6 +171,6 @@ Deleted workouts cannot be recovered. If you deleted a built-in template (Tabata
 - **Set Round Rest to 0 for Tabata** — classic Tabata has no inter-round rest, only 10 s between exercises.
 - **Haptics work silently** — leave your phone on silent and still feel every phase change through vibration.
 - **Background safe** — Pulse schedules a notification for each phase transition so you are alerted even if you lock your screen mid-workout.
-- **History badge** — the History tab shows a badge with how many sessions you have completed today.
+- **History badge** — the History tab shows a badge with how many sessions you have logged today, including partial ones.
 - **Create variations from templates** — use Duplicate & Edit on any built-in template to create your own version without losing the original.
 - **Rename exercises** — give exercises real names (Burpees, Jump Squats, Mountain Climbers) so the timer screen tells you exactly what to do next.
